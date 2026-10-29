@@ -1,0 +1,429 @@
+{
+  "checked": "2026-10-20",
+  "status": "Initial in-game selections; listening feedback remains open",
+  "assets": [
+    {
+      "key": "a03-foley", "file": "assets/audio/a03-foley.m4a", "sha256": "1a8f966c2273dee7ab21b3693a609f5e923cdcfcfd1e630a2530018f4d63f643",
+      "title": "Synthesized: Persistent memory book/gallery", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Book friction and seating, three overlapping air passes as the camera leaves the shelf, closer rustle/air passes through the accelerating gallery section -- matching the film's own soundDescription.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a05-foley", "file": "assets/audio/a05-foley.m4a", "sha256": "c484783cbda31d65bed884e224e3eb50e837705aea8f1e9d180e106de42538ee",
+      "title": "Synthesized: Model distillation answering tone", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "One quiet answering tone, now at 2.4s as the child finishes looking up -- RETIMED 21 Oct: art-auditor trimmed A05 video from 5.10s to 4.10s (cut a 1.00s frozen/silent head, kept 3 frames pre-roll), so the beat (was 3.4s into the old 5.0s run) moved to 2.4s into the new 4.10s run to land on the same on-screen moment. Deliberately the sparsest of this batch, the shot has one beat.",
+      "edit": "Regenerated at the new timing/duration; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a06-foley", "file": "assets/audio/a06-foley.m4a", "sha256": "d2391004ca45fe7e259dd89481e8c3fe23e522efb21e045f23f8b137bb805c0e",
+      "title": "Synthesized: Agent harnesses cloth and catch", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Cloth/belt movement, a small metal catch, a settling click.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a08-foley", "file": "assets/audio/a08-foley.m4a", "sha256": "7c0e3b2af8b9dd15413b633f168e428391f5ab379d07c4bb02e536fd4cf260b6",
+      "title": "Synthesized: Robotics crate settling", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Four wooden-crate-on-steel-shelving settling contacts with metal ring.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a12-foley", "file": "assets/audio/a12-foley.m4a", "sha256": "73660134208a1030a5fc84166df005f0e1169cc5b2e5e25b73b44a9fb37ef6d2",
+      "title": "Synthesized: Autonomous vehicles landing", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Two thruster/gas-burst hisses on descent (previously missing per the catalog's own note), the upright-landing contact, a settling click.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a15-foley", "file": "assets/audio/a15-foley.m4a", "sha256": "c2a1608b9437f21a9154864fc4b18b83af6dbcc8a621935c3b114b5e27b3d483",
+      "title": "Synthesized: Autonomous laboratories pipette fill", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "A faint lab-ambience hum with one quiet liquid-contact accent at the moment the pipettes begin filling together.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a16-foley", "file": "assets/audio/a16-foley.m4a", "sha256": "45928612a20087162dd37a6ff73664c26edadc28442c23857a91f4a6fa8187b6",
+      "title": "Synthesized: Industrial automation canopy and wheels", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "A canopy catch, then four wheels seating together in quick succession.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a04-foley", "file": "assets/audio/a04-foley.m4a", "sha256": "808812bcbe77dd5d91e2f0d106ed964bc5b220b4a5b869a5aad7df4d5ec2d02b",
+      "title": "Synthesized: Multimodal models funnel drops", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Eight staggered material-appropriate contacts (framed picture, musical note, printed page, crystal -- two each) into a metal funnel, built to the current 2.0s cut.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a07-foley", "file": "assets/audio/a07-foley.m4a", "sha256": "cb3c7903d78642d29e868bb296c8a5a376aa3418509d8cc963c0f33474a7363f",
+      "title": "Synthesized: Scientific datasets gel hum", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "A very quiet low electrical hum from an electrophoresis rig plus a faint liquid presence -- no beats, since none exist in the shot (art-auditor: nothing touches anything, nothing arrives or completes). RETIMED 21 Oct: regenerated at 3.71s to match art-auditor trim of A07 video from 3.96s to 3.71s (its frozen head had no embedded audio at all, so no resync was needed, just a shorter run).",
+      "edit": "Regenerated at the new duration; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a12-foley", "file": "assets/audio/a12-foley.m4a", "sha256": "2f1a2e7f474690e395502c2714e83ff7ee12ccd50826efdeb71f1c40d2c3fcf8",
+      "title": "Synthesized: Autonomous vehicles loop-the-loop", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Corrected content: an orange roadster on a loop-the-loop toy track, not a landing. Continuous tyre roll with lighter load through the inverted top of the loop, then a settle as it returns to the road.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a13-foley", "file": "assets/audio/a13-foley.m4a", "sha256": "07b1dc2e91f6e5d824d2ec02f9eccf744859667f74cc46ac3b10400ba927e1d4",
+      "title": "Synthesized: Energy optimization travel and arrival", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "A continuous energy-packet travel hum, four bend accents through the journey, an arrival chime at 5.25s as it's drawn into the receiver.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a14-foley", "file": "assets/audio/a14-foley.m4a", "sha256": "88017da005f0083be23b985bf094334338e7289fb9118a941a6cb40d4407deb7",
+      "title": "Synthesized: Recursive self-improvement zoom pulse", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Two airy passes for the inward zoom, then a repeating electronic pulse with shrinking intervals -- a stylized sound-design cue, not music, matching the catalog's own description.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "liebestraum",
+      "file": "assets/audio/liebestraum.m4a",
+      "sha256": "5f3c61ec10571e5273cc88f50bd8b7d4ed40a0ad53ef3d67e5cd821e3150d4ae",
+      "sourceSha256": "3e5b7debef6f1021dc4e42165c069049fdf32a283019546cca1f8dd641c64a62",
+      "title": "Liszt — Liebesträume, S.541 No.3 (\"O lieb, so lang du lieben kannst\" / Liebestraum No.3) — Luis Kolodin, piano",
+      "provider": "IMSLP (performer: Luis Kolodin, 2022)",
+      "sourceUrl": "https://imslp.org/wiki/Liebestr%C3%A4ume,_S.541_(Liszt,_Franz)",
+      "license": "Creative Commons Attribution-ShareAlike 4.0 (file #803323 on IMSLP; the composition itself, by Liszt, 1850, is public domain everywhere) — credit required: \"Liebestraum No.3, Luis Kolodin, piano, CC BY-SA 4.0 (IMSLP)\"",
+      "character": "Famous Romantic solo piano piece (Jackie's pick, 20 Oct); a rising, yearning melody over a rolling arpeggio, settling at the close. Added to the asset library per Jackie's request; not yet wired to a trigger — see docs/MUSIC.md \"Piano pieces\" for the placement recommendation awaiting her go-ahead.",
+      "edit": "Trimmed to the performance (dropped 1.1s of trailing dead air past the final decay), −1.0 dB gain for headroom (source true peak was −0.06 dBFS, 0.06 dB from clipping), 0.6s linear fade-out added at the new end; AAC transcode only otherwise. Not independently listened to — see report."
+    },
+    {
+      "key": "a01-foley", "file": "assets/audio/a01-foley.m4a", "sha256": "66d724c675f59aecde7f3faff65d0e3f2d4254d5f5448cc8cb56749ee53525cc",
+      "title": "Synthesized: Scaling laws ascent", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Continuous diegetic wind/air sweep for a straight-up accelerating ascent, thinning to near-silence by the time the shot reaches space. No discrete beats -- none exist in the shot.",
+      "edit": "Generated directly (noise-based wind sweep + amplitude envelope, no source recording to trim); AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a02-foley", "file": "assets/audio/a02-foley.m4a", "sha256": "ddbc1bea88e59649dff5b189535107ef2b9ecd7247adffd1c498c0cbacbb4276",
+      "title": "Synthesized: Tool use desk Foley", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Servo whirr for the overhead arms' reach/lift/bring-in, a wood-set-down contact, then a scatter of key taps and a stop-clunk -- timed to the film's own two-arm desk sequence.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a09-foley", "file": "assets/audio/a09-foley.m4a", "sha256": "a61e44fe81ae18e15d5dafb97bd6ca2bfe8889ec44b3d1c16578d969f549665c",
+      "title": "Synthesized: Distributed deployment rack hum", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Thickening rack hum with six discrete arrival contacts, RETIMED 21 Oct to 1.583/1.875/2.167/2.458/2.750/3.042s (was 1.917/2.208/2.500/2.792/3.083/3.375s) after art-auditor trimmed 0.3333s off A09's video's frozen head, same 0.292s spacing; settling into a quiet data-traffic texture.",
+      "edit": "Regenerated at the new timing/duration; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a10-foley", "file": "assets/audio/a10-foley.m4a", "sha256": "168d995789432caac4c5fccbad1f7f488dff7ac141c58a48945546989b8bad01",
+      "title": "Synthesized: Agent swarms wings and brick contacts", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Six detuned wingbeat voices (181–257 Hz with harmonics), irregular pitch drift and flutter, receding as the workers leave; quieter brick contacts retain their original timing.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a11-foley", "file": "assets/audio/a11-foley.m4a", "sha256": "542db0edf167af090b81748d94e117cf6619e3443231c60db0205b3ea612e534",
+      "title": "Synthesized: Scientific models crystalline tick", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Sparse, very quiet crystalline tick texture, denser during the active growth window. Deliberately the quietest of the six research-film Foley tracks -- art-auditor flagged silence as defensible here.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "a17-foley", "file": "assets/audio/a17-foley.m4a", "sha256": "d96f49f15143071d9d8e54641db8c6bad9f47c9e4bea9b3553deef477cc57d9e",
+      "title": "Synthesized: Humanoid robotics footsteps, dab and cartwheel", "provider": "Synthesized (numpy, this pass)",
+      "license": "Original, made for this game; owned outright, no attribution needed.",
+      "character": "Five walking footfalls, a servo buildup into the dab, a rotating whirr into the cartwheel with two overlapping palm-down contacts, two foot-lands, then four receding footfalls as the robot runs out of frame (it does not stop after landing) -- every beat timed to art-auditor's exact 24fps readout.",
+      "edit": "Generated directly; AAC transcode. Not independently listened to -- see report."
+    },
+    {
+      "key": "chopin",
+      "file": "assets/audio/chopin.m4a",
+      "sha256": "c274e9cd4fda2b92f97ee2972b885da2890b56cfdff877929307759fb0e3f221",
+      "sourceSha256": "d286d06381db63d05cb3b971e3b39132866efade1dd94f514c1d83ff9d42de70",
+      "title": "Chopin — Nocturne Op.9 No.2 — Frank Levy, piano",
+      "provider": "Musopen, \"Set Chopin Free\" Kickstarter project (performer: Frank Levy) -- recorded specifically to be released public domain, not an incidental amateur upload",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Chopin_-_Nocturne_No._2_in_E-flat_major,_Op._9_No._2_(Frank_Levy).flac",
+      "license": "Public domain (Musopen \"Set Chopin Free\"; the composition itself, by Chopin, 1832, is public domain everywhere too) — no credit required.",
+      "character": "REPLACES an earlier IMSLP amateur recording (Harald Vetter) pulled 20 Oct 22:50 PDT -- Jackie, having listened: \"there are literally wrong notes.\" This Levy/Musopen recording correlates r=0.982 (pitch-class histogram, scripts/music-verify/) against the pulled recording, meaning no evidence of a different or badly mangled performance -- NOT proof of zero wrong notes; a handful of wrong pitches barely moves a histogram. Trimmed, normalized to -6.6 dBFS peak to match the score's own level, 2s fade-out. Second member of the early-play rotation pool alongside `human` (see audio.mjs HUMAN_POOL) -- Liebestraum, the third member, is pulled pending a better-verified recording.",
+      "edit": "Trimmed 1.9s lead-in (from a measured 2.0s) and 1.4s trailing dead air (from a measured 1.6s), 0.6s linear fade-out added at the new end; no gain change (source already had ample headroom at -1.71 dBFS peak); AAC transcode only otherwise. Not independently listened to -- see report."
+    },
+    {
+      "key": "gymnopedie",
+      "file": "assets/audio/gymnopedie.m4a",
+      "sha256": "24a0251b71562e598b5e056238c58d367d6413a77677f28bf72dca5f7494cde7",
+      "sourceSha256": "419e37656856224227086df32d6d481a00a738961e08fca9f6147e472beea53e",
+      "title": "Satie — Gymnopédie No.1 — Robin Alciatore, piano",
+      "provider": "Musopen (performer: Robin Alciatore) -- a dedicated professional-recording project, not an incidental amateur upload",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Erik_Satie_-_gymnopedies_-_la_1_ere._lent_et_douloureux.ogg",
+      "license": "Public domain (Musopen; the composition itself, by Satie, 1888, is public domain everywhere too) — no credit required.",
+      "character": "REPLACES an earlier IMSLP amateur recording (Luis Kolodin) pulled 20 Oct 22:50 PDT alongside Liebestraum and the Chopin nocturne. This Alciatore/Musopen recording correlates r=0.95-0.99 (pitch-class histogram, scripts/music-verify/) against FOUR independent recordings including the pulled one, meaning no evidence of a different or badly mangled performance across any of them -- NOT proof of zero wrong notes in any one; a handful of wrong pitches barely moves a histogram. Trimmed, normalized to -6.6 dBFS peak to match the score's own level, 2s fade-out. `departure`'s one-way handoff target after one full loop of its own ending theme on the win screen (see audio.mjs).",
+      "edit": "Trimmed 2.5s of trailing dead air past the final decay, 0.6s linear fade-out added; no gain change (already has ample headroom at −6 dBFS peak); AAC transcode only otherwise. Not independently listened to — see report."
+    },
+    {
+      "key": "volcano",
+      "file": "assets/audio/volcano.m4a",
+      "sha256": "a2241426dc63e7e3565b77315a5cdbc7543c51f59ed13c604202c4bb82db1625",
+      "sourceSha256": "8dfb34bbe2e8f6680e519b4b84990ead927b825ced24ab4dacd4f6a66918b88e",
+      "title": "USEFUL II — The Mountain Opens — Volcano",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/1b4654ad-46c2-4771-a2d6-2f82f9b171a9",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "character": "Violent choral-industrial eruption; a jagged low riff, deep toms, timpani and three growing waves.",
+      "edit": "Complete master, original dynamics; AAC transcode only"
+    },
+    {
+      "key": "departure",
+      "file": "assets/audio/departure.m4a",
+      "sha256": "0c920fc2f1c1d7cd459e8d7eaa3026acd41202601988227200c3e155d1f6b228",
+      "sourceSha256": "79470786919842fbe244ff5f046c5eb53c15a6d7c96d18f61dd35df375f7f444",
+      "title": "USEFUL II — Beyond the Ground — Departure",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/a06ada05-91af-494a-879b-d20a1fa01076",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "character": "Soaring progressive space rock in rolling 6/8, singing guitar theme and radiant choral lift.",
+      "edit": "Complete master, original dynamics; AAC transcode only"
+    },
+    {
+      "key": "symbiosis",
+      "file": "assets/audio/symbiosis.m4a",
+      "sha256": "fdb37a93a2e2da0dc27c01386417f69197d8cc58b821d4b638176804355f133d",
+      "sourceSha256": "5e1de34a4330ddc89035533e79d37b1bd19d278234f1b165c610e20caaa55a6e",
+      "title": "USEFUL II — A Future Together — Symbiosis",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/ba207fcf-c4c7-4c14-985d-28a5a061770b",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "character": "Generous soul-funk, gospel-influenced wordless choir, two contrasting melodies joining in counterpoint.",
+      "edit": "Complete master, original dynamics; AAC transcode only"
+    },
+    {
+      "key": "paperclips",
+      "file": "assets/audio/paperclips.m4a",
+      "sha256": "5f4ade7617e7f88d49342664e52cf6727630f1fe8434ecef60cc2cdf15ab05a3",
+      "sourceSha256": "20f75e169ca34bc183f7642a8a966ad62fb464e236883a4e5c47aa17dc821528",
+      "title": "USEFUL II — One More, Forever — Paperclips",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/8e101a4e-540c-49ba-a6c1-5b2aba3c0eef",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "character": "Catchy toy-piano ragtime hook grows into industrial techno at a fixed tempo, with mechanical vocal syllables.",
+      "edit": "Complete master, original dynamics; AAC transcode only"
+    },
+    {
+      "key": "recursion",
+      "file": "assets/audio/recursion.m4a",
+      "sha256": "40e72859d26515411ded3da3e40a78796a70a15f406488b80856dc37b1637e2b",
+      "sourceSha256": "98dd465fb8e68fc732157d4cdda60046ad6c2d8e4dac6285097577103d78dcd4",
+      "title": "USEFUL II — The Mind Rewrites the Mind — Recursion",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/305c6505-d875-49c3-aacf-2d69237baf67",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "character": "Angular progressive electronics, increasingly intricate percussion and wordless choral revelation.",
+      "edit": "Complete master, original dynamics; AAC transcode only"
+    },
+    {
+      "key": "automation",
+      "file": "assets/audio/automation.m4a",
+      "sha256": "248fc76d3872dbcd1b647184108bf99a3733affc7a8e00538acff3289be962ea",
+      "sourceSha256": "8be890daf5c1f6598cb881567ed3799f1511184008a2d780f67eed650078ffee",
+      "title": "USEFUL II — The World Gets Hands — Automation",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/4601e273-7a54-4036-8747-c95a7fd04637",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "character": "Swaggering precision funk, bass-hook exchanges, mechanical percussion and brass punches.",
+      "edit": "Complete master, original dynamics; AAC transcode only"
+    },
+    {
+      "key": "human",
+      "file": "assets/audio/human.m4a",
+      "sha256": "6a18091016ce34f8cfcdbbda3f685b9a36bc30273d8b16557003364cb017f206",
+      "sourceSha256": "a767239328ae0757e21464cf09a57e1b714992ee8ce6944ac68081ee3e7a974d",
+      "title": "A World Worth Saving",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/55718dd4-3496-4afc-88ce-7886c1d1655b",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "edit": "Complete prepared source, AAC transcode only"
+    },
+    {
+      "key": "machine",
+      "file": "assets/audio/machine.m4a",
+      "sha256": "ba16b1540fc770a939b46cfdf6920aee54e0dcb776b55c8779b59ab2e1061f9e",
+      "sourceSha256": "4d558b33b44bd6f9c914e57a0e0882377f524797cfd9078ff9cdcb37d08ac73e",
+      "title": "A City Without Us",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/f65c917a-4ac6-4421-a9ff-0b8d27eb7af1",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "edit": "Original musical performance through 77.0s, including the final decay; removed near-silent trailing padding. Decoded at native sample rate/channel count, re-encoded AAC 192 kbps with CoreAudio.",
+      "previousEditSha256": "233f46696f2fb8506286e160a6cbe1c626540e881170b4cefb4189b902628cc9"
+    },
+    {
+      "key": "nano",
+      "file": "assets/audio/nano.m4a",
+      "sha256": "d3fdaea03964d7c681f26cc0d33e4159a77b1fa5f5da7a60eeb378aa71294ae2",
+      "sourceSha256": "319fe3453e6dcd7ea969ae60b9363209f66a2a1944b4eba790eeeaa676003f2a",
+      "title": "The Swarm Has One Purpose",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/3ac26ec1-9c1b-4d26-9c9d-dfdba4ca2a86",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "edit": "Complete prepared source, AAC transcode only"
+    },
+    {
+      "key": "loss",
+      "file": "assets/audio/loss.m4a",
+      "sha256": "bce7a3f195c832515cf7364710e76332dcd3a0708d47f4bc2cfd94300de009ef",
+      "sourceSha256": "e25f9463b85754826043061424098ae4697f752f298b3b2fdebc946ad5e8ed19",
+      "title": "The Last Voice",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/921f1661-4148-4866-8035-d6b9f6581742",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "edit": "Complete prepared source, AAC transcode only"
+    },
+    {
+      "key": "nuclear",
+      "file": "assets/audio/nuclear.m4a",
+      "sha256": "b5f187ff6fe618f5fae95daf861098ddfe7f6bcc0cd6aa5d0e907f353f5cf845",
+      "sourceSha256": "fc86c2d2322896d1ca0558ed7a239faf546407cb497d2d934fe7d87f49bf6621",
+      "title": "The Unfinished Triumph",
+      "provider": "Suno",
+      "sourceUrl": "https://suno.com/song/b6d21614-9933-4f8f-9dde-d812ef1b95ca",
+      "license": "Existing user-generated recording, Premier plan at generation",
+      "edit": "Complete prepared source, AAC transcode only"
+    },
+    {
+      "key": "replication",
+      "file": "assets/audio/replication.m4a",
+      "sha256": "39d978321134014f510bb4624497dee34d9305757dcb487dcfa65151748dc479",
+      "sourceSha256": "5d871b1b271f64573886d0cf0a5836466fbd976d2a5fce7cc6d24b346bdd1339",
+      "title": "Little Fugue in G minor, BWV 578",
+      "composer": "J. S. Bach",
+      "provider": "Formanavt / Wikimedia Commons",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:J.S.Bach_%E2%80%93_BWV_578.oga",
+      "license": "Worldwide public-domain dedication by the performer",
+      "edit": "Original musical performance through 275.1s, including the final decay; removed near-silent trailing padding. Decoded at native sample rate/channel count, re-encoded AAC 192 kbps with CoreAudio.",
+      "previousEditSha256": "5f20e7bdec4b83b5ab3ae4f03b1c961d442941b2b588d25d2f7fdc91a244b7cb"
+    },
+    {
+      "key": "construction",
+      "file": "assets/audio/construction.m4a",
+      "sha256": "f7bcf768f23b9396ee69f5e14eecfe232223ba4b3476f9368b898c087f027891",
+      "sourceSha256": "aacfeac0c1ee8a79069cfecffab32e1cbe8de1710e9904e019028c5e732bd500",
+      "title": "Urban Works #1",
+      "provider": "Axeline T. / BigSoundBank",
+      "sourceUrl": "https://bigsoundbank.com/urban-works-1-s3526.html",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Full recording; high-pass 70 Hz and low-pass 5 kHz for distant perspective"
+    },
+    {
+      "key": "traffic",
+      "file": "assets/audio/traffic.m4a",
+      "sha256": "10c51030c58460fb2fbc176b6a39bdf29cfd6a4abdb0c6fb2e587553f2fb8863",
+      "sourceSha256": "2f0cd16fc4136f583d8fc260f69636320bae1f9e8f6fe72ac3352bdf88275c7f",
+      "title": "Highway",
+      "provider": "Joseph SARDIN / BigSoundBank",
+      "sourceUrl": "https://bigsoundbank.com/highway-s0122.html",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Full recording; high-pass 70 Hz and low-pass 5 kHz for distant perspective"
+    },
+    {
+      "key": "ventilation",
+      "file": "assets/audio/ventilation.m4a",
+      "sha256": "0e946def8df571fe06251163a59be042c56b8118084db47ea13b020a08fc109d",
+      "sourceSha256": "7aa6160d5f0d459e186c1ef0e0fe8d175ee2a074dc4a48959713abad4bde86f3",
+      "title": "Ventilation #5",
+      "provider": "Joseph SARDIN / BigSoundBank",
+      "sourceUrl": "https://bigsoundbank.com/ventilation-5-s3598.html",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Full recording; high-pass 70 Hz and low-pass 5 kHz for distant perspective"
+    },
+    {
+      "key": "select",
+      "file": "assets/audio/select.m4a",
+      "sha256": "b8eb0be7013d455c98d246c1821fb7059eda4d7a99464dfb079f363b0d300ad0",
+      "sourceSha256": "2fa929138bc3a0f432696588f66eac94b8f6d463905ec8808c6461ce4b054292",
+      "title": "click_003",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC transcode only"
+    },
+    {
+      "key": "confirm",
+      "file": "assets/audio/confirm.m4a",
+      "sha256": "70b199f3e3de060ba8e6e9ced827e3f0c85bba50a1ef77c3ddfda1473ad9af69",
+      "sourceSha256": "063564703b6094d70718a3e787a55cc9141611e4ecd6b6637f8828f79b4a8c3a",
+      "title": "confirmation_001",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC transcode only"
+    },
+    {
+      "key": "complete",
+      "file": "assets/audio/complete.m4a",
+      "sha256": "40050a344be888379ac86f1c326c39e59a2b37b597997e5dcfee7a660ea113f7",
+      "sourceSha256": "33b17a9a9a2397c62b285c52c33a907fdffb476909c99e42dde603f6a7a8b12c",
+      "title": "confirmation_002",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC transcode only"
+    },
+    {
+      "key": "decision",
+      "file": "assets/audio/decision.m4a",
+      "sha256": "efe7d05cd610e123147ce974f9a61af5e5484dda04d99576621ea856f8c456a8",
+      "sourceSha256": "abb8f9e4eb2071491b0b15f84ee302386b1847609310c1b000ae174639a6cc5a",
+      "title": "question_001",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC transcode only"
+    },
+    {
+      "key": "warning",
+      "file": "assets/audio/warning.m4a",
+      "sha256": "5ee7f7c5b39878a59f6aa1ca7a0e71b9165a4399f18bcc67d1ce794c1ae864da",
+      "sourceSha256": "885b28175c7b511118bcffab95675b48bbac9005cf6514656ebdad979276b3ab",
+      "title": "error_003",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC transcode only"
+    },
+    {
+      "key": "hover",
+      "file": "assets/audio/hover.m4a",
+      "sha256": "cdd35f86f524f26bf3e12fe945a7b4e14850f888fb7e9abe37df6444cd618a2c",
+      "sourceSha256": "9d057b918024c787bbe6c00beed13a7ef72a3fa0c259add3cef36582792f4230",
+      "title": "tick_001",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC 192 kbps conversion with CoreAudio; no truncation"
+    },
+    {
+      "key": "back",
+      "file": "assets/audio/back.m4a",
+      "sha256": "46f64b8655a5371a31d9ebf4185107c9d4092a6d1f8b6f3bc142bbbde1b01c11",
+      "sourceSha256": "07db973f79f6ae0f2edc34561e7592e24d0577455919fb602cb8ecc0da991dcf",
+      "title": "back_001",
+      "provider": "Kenney Interface Sounds 1.0",
+      "sourceUrl": "https://kenney.nl/assets/interface-sounds",
+      "license": "CC0-1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "edit": "Complete source, AAC 192 kbps conversion with CoreAudio; no truncation"
+    }
+  ]
+}
