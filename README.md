@@ -11,3 +11,7 @@ track). Music credits and licences are listed in the game's own reference
 screen and in `audio/provenance.json`.
 
 USEFUL is brought to you by Ish.
+
+## Hosting
+
+Served by GitHub Pages at https://ishsupport.github.io/useful-media/<version>/..., one folder per published game build, so a build keeps loading its own media. (jsDelivr refuses repositories over 50 MB, and this one is about 94 MB.)
