@@ -1,0 +1,5048 @@
+{
+  "version": 1,
+  "cities": {
+    "0": {
+      "day": {
+        "video": "enhanced/city-0-day-loop-v5.mp4?v=c6f425b3d41c",
+        "small": "enhanced/city-0-day-loop-v5-small.mp4?v=c403fde28a68",
+        "poster": "enhanced/city-0-day-loop-v4.webp?v=c22ea455a155",
+        "bytes": 2876916,
+        "smallBytes": 1507145
+      },
+      "night": {
+        "video": "enhanced/city-0-night-loop-v5.mp4?v=76c142e6c3c0",
+        "small": "enhanced/city-0-night-loop-v5-small.mp4?v=5405650f2a14",
+        "poster": "enhanced/city-0-night-loop-v4.webp?v=7804cf8a00fb",
+        "bytes": 1998507,
+        "smallBytes": 953846
+      },
+      "dawn": {
+        "video": "enhanced/city-0-dawn-loop-v5.mp4?v=7970ccae3096",
+        "small": "enhanced/city-0-dawn-loop-v5-small.mp4?v=4bc6e14050c8",
+        "poster": "enhanced/city-0-dawn-loop-v4.webp?v=a9f9f18be974",
+        "bytes": 2688869,
+        "smallBytes": 1439456
+      },
+      "dusk": {
+        "video": "enhanced/city-0-dusk-loop-v5.mp4?v=f017781f8ade",
+        "small": "enhanced/city-0-dusk-loop-v5-small.mp4?v=cd99f0a69024",
+        "poster": "enhanced/city-0-dusk-loop-v4.webp?v=0f1d8c5459d7",
+        "bytes": 2559570,
+        "smallBytes": 1307787
+      }
+    },
+    "1": {
+      "day": {
+        "video": "enhanced/city-1-day-loop-v5.mp4?v=75d473828566",
+        "small": "enhanced/city-1-day-loop-v5-small.mp4?v=1c24ff23534b",
+        "poster": "enhanced/city-1-day-loop-v4.webp?v=d0cabde69e22",
+        "bytes": 2383470,
+        "smallBytes": 1186542
+      },
+      "night": {
+        "video": "enhanced/city-1-night-loop-v5.mp4?v=a4d439343cc4",
+        "small": "enhanced/city-1-night-loop-v5-small.mp4?v=2486fa4764c2",
+        "poster": "enhanced/city-1-night-loop-v4.webp?v=6d0afae821f4",
+        "bytes": 1810049,
+        "smallBytes": 799001
+      },
+      "dawn": {
+        "video": "enhanced/city-1-dawn-loop-v5.mp4?v=758d7dde9240",
+        "small": "enhanced/city-1-dawn-loop-v5-small.mp4?v=b67b227a22f3",
+        "poster": "enhanced/city-1-dawn-loop-v4.webp?v=49bd2413c66a",
+        "bytes": 1953440,
+        "smallBytes": 896069
+      },
+      "dusk": {
+        "video": "enhanced/city-1-dusk-loop-v5.mp4?v=0075d7addaca",
+        "small": "enhanced/city-1-dusk-loop-v5-small.mp4?v=fc60d8b4a945",
+        "poster": "enhanced/city-1-dusk-loop-v4.webp?v=93b2f30f696e",
+        "bytes": 1856835,
+        "smallBytes": 811417
+      }
+    },
+    "2": {
+      "day": {
+        "video": "enhanced/city-2-day-loop-v5.mp4?v=a4c3b2b672fc",
+        "small": "enhanced/city-2-day-loop-v5-small.mp4?v=bc8805830f13",
+        "poster": "enhanced/city-2-day-loop-v4.webp?v=be5bb2c50c3d",
+        "bytes": 2399826,
+        "smallBytes": 1236132
+      },
+      "night": {
+        "video": "enhanced/city-2-night-loop-v5.mp4?v=385e8151b37a",
+        "small": "enhanced/city-2-night-loop-v5-small.mp4?v=a655938ef406",
+        "poster": "enhanced/city-2-night-loop-v4.webp?v=1ab2e23c77b4",
+        "bytes": 1724818,
+        "smallBytes": 768436
+      },
+      "dawn": {
+        "video": "enhanced/city-2-dawn-loop-v5.mp4?v=c263d3f7cba4",
+        "small": "enhanced/city-2-dawn-loop-v5-small.mp4?v=39067a639126",
+        "poster": "enhanced/city-2-dawn-loop-v4.webp?v=0dc75911814d",
+        "bytes": 2030063,
+        "smallBytes": 974278
+      },
+      "dusk": {
+        "video": "enhanced/city-2-dusk-loop-v5.mp4?v=3e5da6cdcfc2",
+        "small": "enhanced/city-2-dusk-loop-v5-small.mp4?v=5112cd0d9065",
+        "poster": "enhanced/city-2-dusk-loop-v4.webp?v=fb78bcc3faa7",
+        "bytes": 1866649,
+        "smallBytes": 809243
+      }
+    },
+    "3": {
+      "day": {
+        "video": "enhanced/city-3-day-loop-v5.mp4?v=a1df9fc52cba",
+        "small": "enhanced/city-3-day-loop-v5-small.mp4?v=fc360f910a37",
+        "poster": "enhanced/city-3-day-loop-v4.webp?v=4a848138e76c",
+        "bytes": 2452900,
+        "smallBytes": 1256265
+      },
+      "night": {
+        "video": "enhanced/city-3-night-loop-v5.mp4?v=3116796e7a3a",
+        "small": "enhanced/city-3-night-loop-v5-small.mp4?v=10ea6185aa20",
+        "poster": "enhanced/city-3-night-loop-v4.webp?v=f39e0f84340b",
+        "bytes": 1917442,
+        "smallBytes": 853992
+      },
+      "dawn": {
+        "video": "enhanced/city-3-dawn-loop-v5.mp4?v=96e37f6b18fe",
+        "small": "enhanced/city-3-dawn-loop-v5-small.mp4?v=4190f67fa4d8",
+        "poster": "enhanced/city-3-dawn-loop-v4.webp?v=0ad2b9a23edc",
+        "bytes": 1963953,
+        "smallBytes": 900210
+      },
+      "dusk": {
+        "video": "enhanced/city-3-dusk-loop-v5.mp4?v=49df03b7f9e6",
+        "small": "enhanced/city-3-dusk-loop-v5-small.mp4?v=a264676951ef",
+        "poster": "enhanced/city-3-dusk-loop-v4.webp?v=1cfa94b473fa",
+        "bytes": 2058897,
+        "smallBytes": 976236
+      }
+    },
+    "4": {
+      "day": {
+        "video": "enhanced/city-4-day-loop-v5.mp4?v=520fa79f9376",
+        "small": "enhanced/city-4-day-loop-v5-small.mp4?v=7a59a0c0f3f4",
+        "poster": "enhanced/city-4-day-loop-v4.webp?v=d1d7c782ec1a",
+        "bytes": 2529948,
+        "smallBytes": 1306845
+      },
+      "night": {
+        "video": "enhanced/city-4-night-loop-v5.mp4?v=8d4dd0caf4f0",
+        "small": "enhanced/city-4-night-loop-v5-small.mp4?v=7815fef66a70",
+        "poster": "enhanced/city-4-night-loop-v4.webp?v=4f86c429723f",
+        "bytes": 1671594,
+        "smallBytes": 750324
+      },
+      "dawn": {
+        "video": "enhanced/city-4-dawn-loop-v5.mp4?v=b3e45f54cd32",
+        "small": "enhanced/city-4-dawn-loop-v5-small.mp4?v=36369c1ed0ad",
+        "poster": "enhanced/city-4-dawn-loop-v4.webp?v=bf1d2eed70fe",
+        "bytes": 2270895,
+        "smallBytes": 1151894
+      },
+      "dusk": {
+        "video": "enhanced/city-4-dusk-loop-v5.mp4?v=b3156ce2e896",
+        "small": "enhanced/city-4-dusk-loop-v5-small.mp4?v=bd7948c4621d",
+        "poster": "enhanced/city-4-dusk-loop-v4.webp?v=1f0a1a435173",
+        "bytes": 2318655,
+        "smallBytes": 1194294
+      }
+    },
+    "5": {
+      "day": {
+        "video": "enhanced/city-5-day-loop-v5.mp4?v=af0bcdc6fe0e",
+        "small": "enhanced/city-5-day-loop-v5-small.mp4?v=7dcfcb9306ca",
+        "poster": "enhanced/city-5-day-loop-v4.webp?v=1e1f6a07cfa8",
+        "bytes": 2909539,
+        "smallBytes": 1426128
+      },
+      "night": {
+        "video": "enhanced/city-5-night-loop-v5.mp4?v=269b4e2c181e",
+        "small": "enhanced/city-5-night-loop-v5-small.mp4?v=bd3d9b21496f",
+        "poster": "enhanced/city-5-night-loop-v4.webp?v=94a644708ad9",
+        "bytes": 1745851,
+        "smallBytes": 762608
+      },
+      "dawn": {
+        "video": "enhanced/city-5-dawn-loop-v5.mp4?v=905eb6ec8f74",
+        "small": "enhanced/city-5-dawn-loop-v5-small.mp4?v=9715fd05cf68",
+        "poster": "enhanced/city-5-dawn-loop-v4.webp?v=7c66740d6b62",
+        "bytes": 2789464,
+        "smallBytes": 1372843
+      },
+      "dusk": {
+        "video": "enhanced/city-5-dusk-loop-v5.mp4?v=35fcbc556697",
+        "small": "enhanced/city-5-dusk-loop-v5-small.mp4?v=eb0b5a03b741",
+        "poster": "enhanced/city-5-dusk-loop-v4.webp?v=39328133e9da",
+        "bytes": 2773260,
+        "smallBytes": 1379041
+      }
+    },
+    "6": {
+      "day": {
+        "video": "enhanced/city-6-day-loop-v5.mp4?v=21d35a3494d1",
+        "small": "enhanced/city-6-day-loop-v5-small.mp4?v=01fc43ef1fd5",
+        "poster": "enhanced/city-6-day-loop-v4.webp?v=987cae8cfc6f",
+        "bytes": 2471592,
+        "smallBytes": 1233794
+      },
+      "night": {
+        "video": "enhanced/city-6-night-loop-v5.mp4?v=e7704fbe977b",
+        "small": "enhanced/city-6-night-loop-v5-small.mp4?v=2710b83a8f0c",
+        "poster": "enhanced/city-6-night-loop-v4.webp?v=24ce301280a4",
+        "bytes": 1686083,
+        "smallBytes": 762075
+      },
+      "dawn": {
+        "video": "enhanced/city-6-dawn-loop-v5.mp4?v=bfda93d6f704",
+        "small": "enhanced/city-6-dawn-loop-v5-small.mp4?v=d57e54039694",
+        "poster": "enhanced/city-6-dawn-loop-v4.webp?v=a214adee7c91",
+        "bytes": 2208012,
+        "smallBytes": 1106588
+      },
+      "dusk": {
+        "video": "enhanced/city-6-dusk-loop-v5.mp4?v=34ccb4598ef0",
+        "small": "enhanced/city-6-dusk-loop-v5-small.mp4?v=37dfc3c10e87",
+        "poster": "enhanced/city-6-dusk-loop-v4.webp?v=d5deb6a920cc",
+        "bytes": 1963289,
+        "smallBytes": 892193
+      }
+    },
+    "7": {
+      "day": {
+        "video": "enhanced/city-7-day-loop-v5.mp4?v=98022dbf4641",
+        "small": "enhanced/city-7-day-loop-v5-small.mp4?v=cdf00bf7d31d",
+        "poster": "enhanced/city-7-day-loop-v4.webp?v=d032ce49e4c2",
+        "bytes": 2606689,
+        "smallBytes": 1302823
+      },
+      "night": {
+        "video": "enhanced/city-7-night-loop-v5.mp4?v=4aede7577327",
+        "small": "enhanced/city-7-night-loop-v5-small.mp4?v=6261f64cde9d",
+        "poster": "enhanced/city-7-night-loop-v4.webp?v=27f9a8617bd9",
+        "bytes": 1720020,
+        "smallBytes": 764897
+      },
+      "dawn": {
+        "video": "enhanced/city-7-dawn-loop-v5.mp4?v=034da5c4747c",
+        "small": "enhanced/city-7-dawn-loop-v5-small.mp4?v=d29b76e9fe68",
+        "poster": "enhanced/city-7-dawn-loop-v4.webp?v=c305c62e1ca3",
+        "bytes": 2076600,
+        "smallBytes": 983876
+      },
+      "dusk": {
+        "video": "enhanced/city-7-dusk-loop-v5.mp4?v=d04216a81a09",
+        "small": "enhanced/city-7-dusk-loop-v5-small.mp4?v=ae2d507f5391",
+        "poster": "enhanced/city-7-dusk-loop-v4.webp?v=df14dc7cd72c",
+        "bytes": 2035572,
+        "smallBytes": 922299
+      }
+    },
+    "8": {
+      "day": {
+        "video": "enhanced/city-8-day-loop-v5.mp4?v=ded620030dd9",
+        "small": "enhanced/city-8-day-loop-v5-small.mp4?v=860ad36b027a",
+        "poster": "enhanced/city-8-day-loop-v4.webp?v=b67738d66314",
+        "bytes": 2800584,
+        "smallBytes": 1367145
+      },
+      "night": {
+        "video": "enhanced/city-8-night-loop-v5.mp4?v=46c265ad1ea9",
+        "small": "enhanced/city-8-night-loop-v5-small.mp4?v=de4e9b810a8c",
+        "poster": "enhanced/city-8-night-loop-v4.webp?v=e85e33b852e4",
+        "bytes": 2131369,
+        "smallBytes": 959117
+      },
+      "dawn": {
+        "video": "enhanced/city-8-dawn-loop-v5.mp4?v=ca7fa9f3ef54",
+        "small": "enhanced/city-8-dawn-loop-v5-small.mp4?v=8490c9c2d953",
+        "poster": "enhanced/city-8-dawn-loop-v4.webp?v=0f5c8b6f85a6",
+        "bytes": 2065483,
+        "smallBytes": 988998
+      },
+      "dusk": {
+        "video": "enhanced/city-8-dusk-loop-v5.mp4?v=4206c6ae19a8",
+        "small": "enhanced/city-8-dusk-loop-v5-small.mp4?v=87578569f0ba",
+        "poster": "enhanced/city-8-dusk-loop-v4.webp?v=70fa8f7c93a8",
+        "bytes": 2436139,
+        "smallBytes": 1207062
+      }
+    },
+    "9": {
+      "day": {
+        "poster": "enhanced/city-9-day.webp?v=f751d9575c61"
+      },
+      "night": {
+        "poster": "enhanced/city-9-night.webp?v=64fc16613042"
+      },
+      "dawn": {
+        "poster": "enhanced/city-9-dawn.webp?v=a61e4461ce87"
+      },
+      "dusk": {
+        "poster": "enhanced/city-9-dusk.webp?v=c3eb525c6885"
+      }
+    }
+  },
+  "sprites": {
+    "day": {
+      "file": "enhanced/day-sprites.webp?v=dafc63276f1b",
+      "entries": {
+        "host": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            185,
+            118
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.027
+            ],
+            [
+              0.55,
+              0.07,
+              0.028
+            ],
+            [
+              0.28,
+              0.19,
+              0.027
+            ],
+            [
+              0.75,
+              0.27,
+              0.031
+            ],
+            [
+              0.62,
+              0.38,
+              0.031
+            ]
+          ]
+        },
+        "host-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            185,
+            118
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            189,
+            0,
+            230,
+            149
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "fans": [
+            [
+              0.37,
+              0.05,
+              0.028
+            ],
+            [
+              0.26,
+              0.19,
+              0.028
+            ],
+            [
+              0.76,
+              0.29,
+              0.03
+            ],
+            [
+              0.63,
+              0.4,
+              0.028
+            ]
+          ]
+        },
+        "datacenter-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            189,
+            0,
+            230,
+            149
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "laboratory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            423,
+            0,
+            208,
+            141
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.028
+            ],
+            [
+              0.24,
+              0.2,
+              0.027
+            ],
+            [
+              0.77,
+              0.26,
+              0.028
+            ]
+          ]
+        },
+        "laboratory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            423,
+            0,
+            208,
+            141
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "solar": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            635,
+            0,
+            219,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ]
+        },
+        "solar-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            635,
+            0,
+            219,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "exchange": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            858,
+            0,
+            144,
+            103
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ]
+        },
+        "exchange-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            858,
+            0,
+            144,
+            103
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "factory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1006,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.1,
+              0.047
+            ],
+            [
+              0.66,
+              0.27,
+              0.047
+            ]
+          ]
+        },
+        "factory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1006,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nuclear": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1193,
+            0,
+            183,
+            119
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ]
+        },
+        "nuclear-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1193,
+            0,
+            183,
+            119
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "habitat": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1380,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "habitat-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1380,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nano": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            1567,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.07,
+              0.036
+            ],
+            [
+              0.7,
+              0.25,
+              0.039
+            ]
+          ]
+        },
+        "nano-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            1567,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "robotSettlement": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1754,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "robotSettlement-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1754,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            0,
+            153,
+            204,
+            143
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "fans": [
+            [
+              0.47,
+              0.14,
+              0.028
+            ]
+          ]
+        },
+        "office-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            0,
+            153,
+            204,
+            143
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            208,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "studio-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            208,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            395,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "sensors-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            395,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            582,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "clinical-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            582,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "civic": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            769,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "civic-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            769,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "safeguard": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            958,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "safeguard-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            958,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "construction-0": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1147,
+            153,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-1": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1427,
+            153,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-2": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1707,
+            153,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-3": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-4": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            280,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-5": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            560,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-6": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            840,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-7": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1120,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-8": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1400,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-9": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1680,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-10": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            497,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "cooled-datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            280,
+            497,
+            82,
+            40
+          ],
+          "offset": [
+            -45.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.28,
+              0.13,
+              0.14
+            ],
+            [
+              0.72,
+              0.59,
+              0.14
+            ]
+          ]
+        },
+        "personalized-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            366,
+            497,
+            33,
+            23
+          ],
+          "offset": [
+            11.615452571753508,
+            -62.351202051756786
+          ]
+        },
+        "personalized-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            403,
+            497,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            440,
+            497,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            477,
+            497,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "automated-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            514,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -83.35120205175679
+          ]
+        },
+        "automated-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            531,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            548,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            565,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        }
+      },
+      "width": 2048,
+      "height": 667
+    },
+    "night": {
+      "file": "enhanced/night-sprites.webp?v=a83923eabc6e",
+      "entries": {
+        "host": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            185,
+            118
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.027
+            ],
+            [
+              0.55,
+              0.07,
+              0.028
+            ],
+            [
+              0.28,
+              0.19,
+              0.027
+            ],
+            [
+              0.75,
+              0.27,
+              0.031
+            ],
+            [
+              0.62,
+              0.38,
+              0.031
+            ]
+          ]
+        },
+        "host-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            185,
+            118
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            189,
+            0,
+            230,
+            149
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "fans": [
+            [
+              0.37,
+              0.05,
+              0.028
+            ],
+            [
+              0.26,
+              0.19,
+              0.028
+            ],
+            [
+              0.76,
+              0.29,
+              0.03
+            ],
+            [
+              0.63,
+              0.4,
+              0.028
+            ]
+          ]
+        },
+        "datacenter-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            189,
+            0,
+            230,
+            149
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "laboratory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            423,
+            0,
+            208,
+            141
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.028
+            ],
+            [
+              0.24,
+              0.2,
+              0.027
+            ],
+            [
+              0.77,
+              0.26,
+              0.028
+            ]
+          ]
+        },
+        "laboratory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            423,
+            0,
+            208,
+            141
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "solar": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            635,
+            0,
+            219,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ]
+        },
+        "solar-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            635,
+            0,
+            219,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "exchange": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            858,
+            0,
+            144,
+            103
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ]
+        },
+        "exchange-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            858,
+            0,
+            144,
+            103
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "factory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1006,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.1,
+              0.047
+            ],
+            [
+              0.66,
+              0.27,
+              0.047
+            ]
+          ]
+        },
+        "factory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1006,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nuclear": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1193,
+            0,
+            183,
+            119
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ]
+        },
+        "nuclear-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1193,
+            0,
+            183,
+            119
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "habitat": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1380,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "habitat-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1380,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nano": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            1567,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.07,
+              0.036
+            ],
+            [
+              0.7,
+              0.25,
+              0.039
+            ]
+          ]
+        },
+        "nano-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            1567,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "robotSettlement": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1754,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "robotSettlement-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1754,
+            0,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            0,
+            153,
+            204,
+            143
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "fans": [
+            [
+              0.47,
+              0.14,
+              0.028
+            ]
+          ]
+        },
+        "office-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            0,
+            153,
+            204,
+            143
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            208,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "studio-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            208,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            395,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "sensors-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            395,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            582,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "clinical-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            582,
+            153,
+            183,
+            116
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "civic": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            769,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "civic-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            769,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "safeguard": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            958,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "safeguard-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            958,
+            153,
+            185,
+            119
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "construction-0": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1147,
+            153,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-1": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1427,
+            153,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-2": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1707,
+            153,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-3": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-4": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            280,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-5": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            560,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-6": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            840,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-7": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1120,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-8": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1400,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-9": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1680,
+            325,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-10": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            497,
+            276,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "cooled-datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            280,
+            497,
+            82,
+            40
+          ],
+          "offset": [
+            -45.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.28,
+              0.13,
+              0.14
+            ],
+            [
+              0.72,
+              0.59,
+              0.14
+            ]
+          ]
+        },
+        "personalized-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            366,
+            497,
+            33,
+            23
+          ],
+          "offset": [
+            11.615452571753508,
+            -62.351202051756786
+          ]
+        },
+        "personalized-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            403,
+            497,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            440,
+            497,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            477,
+            497,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "automated-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            514,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -83.35120205175679
+          ]
+        },
+        "automated-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            531,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            548,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            565,
+            497,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        }
+      },
+      "width": 2048,
+      "height": 667
+    },
+    "dawn": {
+      "file": "enhanced/dawn-sprites.webp?v=e8f5df8dd557",
+      "entries": {
+        "host": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            232,
+            127
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.027
+            ],
+            [
+              0.55,
+              0.07,
+              0.028
+            ],
+            [
+              0.28,
+              0.19,
+              0.027
+            ],
+            [
+              0.75,
+              0.27,
+              0.031
+            ],
+            [
+              0.62,
+              0.38,
+              0.031
+            ]
+          ]
+        },
+        "host-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            232,
+            127
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            236,
+            0,
+            288,
+            159
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "fans": [
+            [
+              0.37,
+              0.05,
+              0.028
+            ],
+            [
+              0.26,
+              0.19,
+              0.028
+            ],
+            [
+              0.76,
+              0.29,
+              0.03
+            ],
+            [
+              0.63,
+              0.4,
+              0.028
+            ]
+          ]
+        },
+        "datacenter-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            236,
+            0,
+            288,
+            159
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "laboratory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            528,
+            0,
+            270,
+            151
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.028
+            ],
+            [
+              0.24,
+              0.2,
+              0.027
+            ],
+            [
+              0.77,
+              0.26,
+              0.028
+            ]
+          ]
+        },
+        "laboratory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            528,
+            0,
+            270,
+            151
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "solar": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            802,
+            0,
+            253,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ]
+        },
+        "solar-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            802,
+            0,
+            253,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "exchange": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            1059,
+            0,
+            190,
+            110
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ]
+        },
+        "exchange-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            1059,
+            0,
+            190,
+            110
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "factory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1253,
+            0,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.1,
+              0.047
+            ],
+            [
+              0.66,
+              0.27,
+              0.047
+            ]
+          ]
+        },
+        "factory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1253,
+            0,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nuclear": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1482,
+            0,
+            234,
+            133
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ]
+        },
+        "nuclear-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1482,
+            0,
+            234,
+            133
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "habitat": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1720,
+            0,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "habitat-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1720,
+            0,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nano": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            0,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.07,
+              0.036
+            ],
+            [
+              0.7,
+              0.25,
+              0.039
+            ]
+          ]
+        },
+        "nano-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            0,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "robotSettlement": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            229,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "robotSettlement-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            229,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            458,
+            163,
+            276,
+            166
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "fans": [
+            [
+              0.47,
+              0.14,
+              0.028
+            ]
+          ]
+        },
+        "office-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            458,
+            163,
+            276,
+            166
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            738,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "studio-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            738,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            967,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "sensors-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            967,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            1196,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "clinical-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            1196,
+            163,
+            225,
+            130
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "civic": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            1425,
+            163,
+            227,
+            131
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "civic-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            1425,
+            163,
+            227,
+            131
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "safeguard": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            1656,
+            163,
+            227,
+            131
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "safeguard-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            1656,
+            163,
+            227,
+            131
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "construction-0": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            333,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-1": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            376,
+            333,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-2": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            752,
+            333,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-3": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1128,
+            333,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-4": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1504,
+            333,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-5": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            507,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-6": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            376,
+            507,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-7": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            752,
+            507,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-8": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1128,
+            507,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-9": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1504,
+            507,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-10": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            681,
+            372,
+            170
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "cooled-datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            376,
+            681,
+            82,
+            40
+          ],
+          "offset": [
+            -45.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.28,
+              0.13,
+              0.14
+            ],
+            [
+              0.72,
+              0.59,
+              0.14
+            ]
+          ]
+        },
+        "personalized-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            462,
+            681,
+            33,
+            23
+          ],
+          "offset": [
+            11.615452571753508,
+            -62.351202051756786
+          ]
+        },
+        "personalized-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            499,
+            681,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            536,
+            681,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            573,
+            681,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "automated-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            610,
+            681,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -83.35120205175679
+          ]
+        },
+        "automated-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            627,
+            681,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            644,
+            681,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            661,
+            681,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        }
+      },
+      "width": 2048,
+      "height": 853
+    },
+    "dusk": {
+      "file": "enhanced/dusk-sprites.webp?v=7599b9d268d2",
+      "entries": {
+        "host": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            184,
+            118
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.027
+            ],
+            [
+              0.55,
+              0.07,
+              0.028
+            ],
+            [
+              0.28,
+              0.19,
+              0.027
+            ],
+            [
+              0.75,
+              0.27,
+              0.031
+            ],
+            [
+              0.62,
+              0.38,
+              0.031
+            ]
+          ]
+        },
+        "host-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 558.4837259629359
+          },
+          "animated": false,
+          "rect": [
+            0,
+            0,
+            184,
+            118
+          ],
+          "offset": [
+            -83.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            188,
+            0,
+            229,
+            148
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "fans": [
+            [
+              0.37,
+              0.05,
+              0.028
+            ],
+            [
+              0.26,
+              0.19,
+              0.028
+            ],
+            [
+              0.76,
+              0.29,
+              0.03
+            ],
+            [
+              0.63,
+              0.4,
+              0.028
+            ]
+          ]
+        },
+        "datacenter-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 543.7668569407306
+          },
+          "animated": false,
+          "rect": [
+            188,
+            0,
+            229,
+            148
+          ],
+          "offset": [
+            -103.38454742824649,
+            -94.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "laboratory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            421,
+            0,
+            207,
+            140
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "fans": [
+            [
+              0.4,
+              0.05,
+              0.028
+            ],
+            [
+              0.24,
+              0.2,
+              0.027
+            ],
+            [
+              0.77,
+              0.26,
+              0.028
+            ]
+          ]
+        },
+        "laboratory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.512443935131
+          },
+          "animated": false,
+          "rect": [
+            421,
+            0,
+            207,
+            140
+          ],
+          "offset": [
+            -90.38454742824649,
+            -92.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "solar": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            632,
+            0,
+            219,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ]
+        },
+        "solar-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 581.2756914064692
+          },
+          "animated": false,
+          "rect": [
+            632,
+            0,
+            219,
+            132
+          ],
+          "offset": [
+            -105.38454742824649,
+            -76.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "exchange": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            855,
+            0,
+            143,
+            102
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ]
+        },
+        "exchange-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 564.9117836759119
+          },
+          "animated": false,
+          "rect": [
+            855,
+            0,
+            143,
+            102
+          ],
+          "offset": [
+            -61.38454742824649,
+            -68.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "factory": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1002,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.1,
+              0.047
+            ],
+            [
+              0.66,
+              0.27,
+              0.047
+            ]
+          ]
+        },
+        "factory-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 569.6949119638931
+          },
+          "animated": false,
+          "rect": [
+            1002,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nuclear": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1189,
+            0,
+            183,
+            117
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ]
+        },
+        "nuclear-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 556.1038279954271
+          },
+          "animated": false,
+          "rect": [
+            1189,
+            0,
+            183,
+            117
+          ],
+          "offset": [
+            -77.38454742824649,
+            -78.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "habitat": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1376,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "habitat-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1376,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "nano": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            1563,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.38,
+              0.07,
+              0.036
+            ],
+            [
+              0.7,
+              0.25,
+              0.039
+            ]
+          ]
+        },
+        "nano-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 568.3533028101698
+          },
+          "animated": false,
+          "rect": [
+            1563,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "robotSettlement": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1750,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "robotSettlement-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 563.1035273351422
+          },
+          "animated": false,
+          "rect": [
+            1750,
+            0,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            0,
+            152,
+            203,
+            140
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "fans": [
+            [
+              0.47,
+              0.14,
+              0.028
+            ]
+          ]
+        },
+        "office-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 549.0457972756874
+          },
+          "animated": false,
+          "rect": [
+            0,
+            152,
+            203,
+            140
+          ],
+          "offset": [
+            -77.38454742824649,
+            -101.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            207,
+            152,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "studio-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 570.9781902695406
+          },
+          "animated": false,
+          "rect": [
+            207,
+            152,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            394,
+            152,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "sensors-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 550.2551195837294
+          },
+          "animated": false,
+          "rect": [
+            394,
+            152,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            581,
+            152,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "clinical-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 566.3117236751037
+          },
+          "animated": false,
+          "rect": [
+            581,
+            152,
+            183,
+            114
+          ],
+          "offset": [
+            -77.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "civic": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            768,
+            152,
+            185,
+            115
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "civic-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 580.8069355340732
+          },
+          "animated": false,
+          "rect": [
+            768,
+            152,
+            185,
+            115
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "safeguard": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            957,
+            152,
+            185,
+            115
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ]
+        },
+        "safeguard-offline": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 567.245016993991
+          },
+          "animated": false,
+          "rect": [
+            957,
+            152,
+            185,
+            115
+          ],
+          "offset": [
+            -79.38454742824649,
+            -75.35120205175679
+          ],
+          "filter": "grayscale(.85) brightness(.4)"
+        },
+        "construction-0": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1146,
+            152,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-1": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1424,
+            152,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-2": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1702,
+            152,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-3": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-4": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            278,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-5": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            556,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-6": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            834,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-7": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1112,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-8": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1390,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-9": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            1668,
+            324,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "construction-10": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "top": {
+            "x": 756.3845474282465,
+            "y": 528.8049984223175
+          },
+          "animated": false,
+          "rect": [
+            0,
+            496,
+            274,
+            168
+          ],
+          "offset": [
+            -103.38454742824649,
+            -114.35120205175679
+          ]
+        },
+        "cooled-datacenter": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            278,
+            496,
+            82,
+            40
+          ],
+          "offset": [
+            -45.38454742824649,
+            -75.35120205175679
+          ],
+          "fans": [
+            [
+              0.28,
+              0.13,
+              0.14
+            ],
+            [
+              0.72,
+              0.59,
+              0.14
+            ]
+          ]
+        },
+        "personalized-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            364,
+            496,
+            33,
+            23
+          ],
+          "offset": [
+            11.615452571753508,
+            -62.351202051756786
+          ]
+        },
+        "personalized-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            401,
+            496,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            438,
+            496,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "personalized-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            475,
+            496,
+            33,
+            24
+          ],
+          "offset": [
+            11.615452571753508,
+            -36.351202051756786
+          ]
+        },
+        "automated-office": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            512,
+            496,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -83.35120205175679
+          ]
+        },
+        "automated-studio": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            529,
+            496,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-sensors": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            546,
+            496,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        },
+        "automated-clinical": {
+          "anchor": {
+            "x": 756.3845474282465,
+            "y": 617.3512020517568
+          },
+          "animated": false,
+          "rect": [
+            563,
+            496,
+            13,
+            13
+          ],
+          "offset": [
+            -42.38454742824649,
+            -57.351202051756786
+          ]
+        }
+      },
+      "width": 2048,
+      "height": 666
+    }
+  },
+  "world": {
+    "day": "enhanced/world-day.webp?v=cc8dc3f883e6",
+    "night": "enhanced/world-night.webp?v=a3719dd44427"
+  },
+  "facilityGeometry": "day"
+}
