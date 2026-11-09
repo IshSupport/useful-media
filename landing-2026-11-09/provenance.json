@@ -1,0 +1,211 @@
+{
+  "preparedAt": "2026-11-09",
+  "status": "Prepared and visually checked; current completion screens and concise building action",
+  "method": "Actual game UI, legal engine fixtures, normal wall-clock pacing. Autonomous vehicles completion at turn 49; Better Together legitimately won by the focused policy, seed 7, lab, easy, at turn 87. Both use the existing Replay film control on the real completion screen. Build chooses Model research lab and stops with work still in progress after one turn. No art generation, invented UI, speed changes or rule edits.",
+  "clips": [
+    {
+      "name": "research",
+      "title": "Research",
+      "sourceCommit": "91129322bcdb6e96048c2556051b9571f86a7d3e",
+      "durationSeconds": 6.413000917,
+      "framesCaptured": 163,
+      "outputFps": 30,
+      "master": [
+        1280,
+        800
+      ],
+      "small": [
+        768,
+        480
+      ],
+      "cardExcerpt": {
+        "start": 0.2,
+        "duration": 6.213000917,
+        "crop": {
+          "width": 1280,
+          "height": 800,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "actions": [
+        {
+          "atSeconds": 0.00030495799999880546,
+          "action": "Replay the actual Autonomous vehicles discovery film"
+        }
+      ],
+      "errors": [],
+      "failedResources": [],
+      "fixtureSha256": "842d0bf7b7610fc75c033c43eca078f1e39ac33402d629a4728d536d4e5e113d"
+    },
+    {
+      "name": "city",
+      "title": "Build",
+      "sourceCommit": "91129322bcdb6e96048c2556051b9571f86a7d3e",
+      "durationSeconds": 4.999510041,
+      "framesCaptured": 154,
+      "outputFps": 30,
+      "master": [
+        960,
+        600
+      ],
+      "small": [
+        768,
+        480
+      ],
+      "cardExcerpt": {
+        "start": 0,
+        "duration": 4.999510041,
+        "crop": {
+          "width": 960,
+          "height": 600,
+          "x": 0,
+          "y": 0
+        }
+      },
+      "actions": [
+        {
+          "atSeconds": 0.702385291,
+          "action": "Choose work in San Francisco"
+        },
+        {
+          "atSeconds": 1.3829569159999997,
+          "action": "Start Model research lab"
+        },
+        {
+          "atSeconds": 2.445655958,
+          "action": "Run construction"
+        },
+        {
+          "atSeconds": 3.2458222500000002,
+          "action": "Pause after construction begins"
+        }
+      ],
+      "errors": [],
+      "failedResources": [],
+      "fixtureSha256": "aaa1b10f73041c9b9885c1c9180a2fb12519280b48fa0cbdb4cd2df4146b13c7"
+    },
+    {
+      "name": "world",
+      "title": "Endgame",
+      "sourceCommit": "91129322bcdb6e96048c2556051b9571f86a7d3e",
+      "durationSeconds": 11.351642667,
+      "framesCaptured": 283,
+      "outputFps": 30,
+      "master": [
+        1280,
+        1000
+      ],
+      "small": [
+        768,
+        480
+      ],
+      "cardExcerpt": {
+        "start": 0.2,
+        "duration": 11.151642667,
+        "crop": {
+          "width": 768,
+          "height": 480,
+          "x": 256,
+          "y": 0
+        }
+      },
+      "actions": [
+        {
+          "atSeconds": 0.00020512500000040746,
+          "action": "Replay the actual Better Together completed ending film"
+        }
+      ],
+      "errors": [],
+      "failedResources": [],
+      "fixtureSha256": "1e3486c5c97a23593c64ffd52403937f8ff79911e133a7d9c4e53945bccd181c"
+    }
+  ],
+  "assets": [
+    {
+      "file": "research.mp4",
+      "bytes": 1911475,
+      "sha256": "4ec0bd5e3939815c5ac03ba8f85d080bd442d6c6171096458fc8ea6976448147"
+    },
+    {
+      "file": "research-small.mp4",
+      "bytes": 475123,
+      "sha256": "6cfcff217029f5b337c5a77b66856e5c95caf22b816422343b5c788cc5abb520"
+    },
+    {
+      "file": "research.webp",
+      "bytes": 146384,
+      "sha256": "6e71722d2d843591f28015f0819780a2734423fd866e97aaee0ed3718fc65521"
+    },
+    {
+      "file": "research-small.webp",
+      "bytes": 67212,
+      "sha256": "1a5d4796adcc76c4470c3e37c76efc52911ab90264b8528cbfbad1d5661bccea"
+    },
+    {
+      "file": "research.jpg",
+      "bytes": 289977,
+      "sha256": "88b21eee8634fd4320dd9169f91ebf4d867cc0d43008043ae13aa0f092f55bdc"
+    },
+    {
+      "file": "city.mp4",
+      "bytes": 1658291,
+      "sha256": "11675c30e9afafe08529a855ecc4917b78244f47432ab11bf5ee08e1c0c3a51c"
+    },
+    {
+      "file": "city-small.mp4",
+      "bytes": 522770,
+      "sha256": "aecdd55efab73eafb137299d9275b4036affdcfa328b20525b4041e81d452596"
+    },
+    {
+      "file": "city.webp",
+      "bytes": 100234,
+      "sha256": "c525c72b2297e2c0060086fd9eaa448fa87a6d8ea59f9ab1e9194b155a676470"
+    },
+    {
+      "file": "city-small.webp",
+      "bytes": 63334,
+      "sha256": "09c1728ecaf962e3767130cf11b340aaed78b3d95a117b9675e409c4ea011aa6"
+    },
+    {
+      "file": "city.jpg",
+      "bytes": 187652,
+      "sha256": "f6c50232427c067dfeaea0cda55946a970b890aa0c6cfd08985e4f681198de4d"
+    },
+    {
+      "file": "world.mp4",
+      "bytes": 2627166,
+      "sha256": "9de7522844c468260cfa6ad7d6d7832dcb5660511569e6874cc1146a3f393594"
+    },
+    {
+      "file": "world-small.mp4",
+      "bytes": 988192,
+      "sha256": "b10d964078da77deb1990ee9f0064ae922ef0140ba099bf59be69c8d649dd02e"
+    },
+    {
+      "file": "world.webp",
+      "bytes": 84804,
+      "sha256": "a1e175c5b7329b15f27534322344d20401c8c14213320c13cdb9b7b9e903c1b7"
+    },
+    {
+      "file": "world-small.webp",
+      "bytes": 32224,
+      "sha256": "c6176bdee8592cc60961d07f869f67c1f9b19a046bef0e3cde8bc29509bf3afd"
+    },
+    {
+      "file": "world.jpg",
+      "bytes": 181535,
+      "sha256": "1266443e9e19c3ba626b4af9c92f1603debb541b89362aa069c2fc9ec74a51df"
+    },
+    {
+      "file": "unsupervised-gameplay.mp4",
+      "bytes": 4305470,
+      "sha256": "9675d6fed72a25f6d48e3c77670d1d49a70f403f281f586a0a9f7000bdcf912d"
+    }
+  ],
+  "sourceAssets": {
+    "dist/assets/films/enhanced/A12-v3.mp4": "d93d4bec219dbdb3bf8c4023262a9df6f297adadccce230ba58db1197f9f46a7",
+    "dist/assets/films/enhanced/symbiosis-v2.mp4": "b8af3240bda5c105a09b0094a8c0cc00b3f7bf9a838854b34729417b038618f2"
+  },
+  "combined": "Sequential close-framed card versions, normal speed, no audio; 1280\u00d7800 output. Full capture players remain available separately."
+}
